@@ -15,7 +15,7 @@ for i in range(0,len(armas)):
     total=total+sum(numerocar)
 print(total)
 
-armas = ['pistola', 'ametralladora', 'escopeta', 'fusil de francotirador']
+armas = ['pistola', 'ametralladora', 'escopeta', 'fusil de francotirador']###
 
 cargadores = {
     'pistola': [12, 13, 4, 5, 20, 17], 
